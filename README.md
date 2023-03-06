@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 Currently I am Master of Data Science student at Warsaw University of Technology.
+- 🔭 Projects created during my (both Bachelor and Master) studies are stored here: https://github.com/liskuba/WUT-Projects
+- 📫 How to reach me: jakublis36@gmail.com
