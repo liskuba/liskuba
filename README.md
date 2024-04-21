@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 Currently I am Master of Data Science student at Warsaw University of Technology.
-- 👨‍💻 Working as Business Data Analyst at Orange Poland.
+- 🌱 Currently, I am a Master of Data Science student at Warsaw University of Technology.
+- 👨‍💻 Working as a NLP Engineer at Samsung.
 - 🔭 Projects created during my (both Bachelor and Master) studies are stored here: https://github.com/liskuba/WUT-Projects
 - 📫 How to reach me: jakublis36@gmail.com
